@@ -15,6 +15,7 @@ const sections = [
   "Important Web Links",
   "YouTube Study Material",
   "Coding Progress",
+  "Shared Features", // New section added for shared features
 ];
 
 const Dashboard = () => {
